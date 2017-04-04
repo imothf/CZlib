@@ -1,0 +1,4 @@
+module CZlib [system] {
+    link "zlib"
+    export *
+}
