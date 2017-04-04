@@ -1,4 +1,5 @@
 module CZlib [system] {
+    header "/usr/local/include/zlib.h"
     link "zlib"
     export *
 }
